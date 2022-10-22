@@ -1,0 +1,22 @@
+22/10/2022  - Class 1 
+
+GIT - tool
+
+Git is a devops tool used for source code management. 
+
+It is an open source version controlling system used to handle projects efficiently.
+
+Git is used to track changes in the source code enabling multiple developers to work together.
+
+GIT Architecture
+
+We have 4 stages in GIT ARCH
+1. Work space - It is place where we edit and modify the project related files.
+2. Staging area - On GIT add files are moved from workspace to staging area where chnages are saved.
+3. Local Repo - On GIT commit files will be added to local repo where we can track the file version, commit IDs which are created.
+4. Central Repo - On GIT push files are moved to central repo.
+
+Assigments:
+
+1. Install GIT in EC2 server.
+ 
